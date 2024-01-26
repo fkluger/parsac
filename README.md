@@ -68,3 +68,6 @@ and then follow the instructions on the [EVAL page](EVAL.md).
 ## Training
 
 If you want to train PARSAC from scratch, please follow the instructions on the [TRAIN page](TRAIN.md).
+
+## License
+[BSD License](LICENSE)
