@@ -1,6 +1,9 @@
 # PARSAC: Accelerating Robust Multi-Model Fitting with Parallel Sample Consensus
 
-If you use this code, please cite our paper:
+The paper with supplementary material is available on arXiv:  
+https://arxiv.org/abs/2401.14919 
+
+If you use this code, please cite our paper:  
 ```
 @inproceedings{kluger2024parsac,
   title={PARSAC: Accelerating Robust Multi-Model Fitting with Parallel Sample Consensus},
@@ -9,6 +12,7 @@ If you use this code, please cite our paper:
   year={2024}
 }
 ```
+
 
 Related repositories:
 * [HOPE-F dataset](https://github.com/fkluger/hope-f) 
