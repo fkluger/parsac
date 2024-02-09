@@ -43,7 +43,7 @@ def get_options():
     parser.add_argument('--num_workers', type=int, default=4, help='number of workers for data loader')
     parser.add_argument('--ckpt_mode', default="last", type=str,
                         help='', choices=["all", "last", "disabled"])
-    parser.add_argument('--self_supervised', help='use self-supervised loss function')
+    parser.add_argument('--self_supervised', action='store_true', help='use self-supervised loss function')
     parser.add_argument('--cumulative_loss', type=float, default=0.3, help='gamma - weight for self-supervised loss')
 
     # evaluation only:
